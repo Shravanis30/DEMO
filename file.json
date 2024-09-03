@@ -1,0 +1,38 @@
+{
+    "Homepage": {
+      "Workspace": {
+        "Dashboard": {},
+        "Recents": {},
+        "My Workspaces": {}
+      },
+      "People": {
+        "Members": {},
+        "My Teams": {
+          "Overview": {},
+          "Manage Teams": {}
+        }
+      },
+      "Projects": {
+        "All Projects": {},
+        "My Projects": {},
+        "Create Project": {}
+      },
+      "Tasks": {
+        "My Tasks": {},
+        "Team Tasks": {},
+        "Create Task": {}
+      },
+      "Reports": {
+        "Progress Reports": {},
+        "Time Tracking": {}
+      },
+      "Settings": {
+        "Profile Settings": {},
+        "Workspace Settings": {}
+      },
+      "Help & Support": {
+        "FAQ": {},
+        "Contact Support": {}
+      }
+    }
+  }
